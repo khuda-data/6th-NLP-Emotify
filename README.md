@@ -53,8 +53,8 @@
 
 
 
-|<img src="https://avatars.githubusercontent.com/" width="100"/>|<img src="https://avatars.githubusercontent.com/" width="100"/>|<img src="https://avatars.githubusercontent.com/" width="100"/>|<img src="https://avatars.githubusercontent.com/u/111039206?v=4" width="100"/>|
+|<img src="https://avatars.githubusercontent.com/u/175944453?v=4" width="100"/>|<img src="https://avatars.githubusercontent.com/u/144123922?v=4" width="100"/>|<img src="https://avatars.githubusercontent.com/" width="100"/>|<img src="https://avatars.githubusercontent.com/u/111039206?v=4" width="100"/>|
 |:---:|:---:|:---:|:---:|
-|[김동혁](https://github.com/)|[김혜란](https://github.com/)|[이동진](https://github.com/)|[장영주](https://github.com/youngju6143)|
+|[김동혁](https://github.com/ddonghyeok0326)|[김혜란](https://github.com/hyeran1216)|[이동진](https://github.com/)|[장영주](https://github.com/youngju6143)|
 
 
