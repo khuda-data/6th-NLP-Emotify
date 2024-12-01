@@ -3,6 +3,7 @@
 ## 1️⃣ 프로젝트 개요
 
 때로는 감정을 담아 글을 적는 것은 어려운 일이 됩니다.📝 자신의 감정을 정확히 표현하지 못해 답답함😮‍💨을 느끼는 사람들을 위해, 감정을 풍부하게 만드는 **텍스트 생성기**를 만들었습니다.
+<<<<<<< Updated upstream
 
 본 프로젝트 는 사용자가 작성한 **일기를 분석**하여 감정에 맞는 **이모지를 삽입**🤩하는 서비스입니다. 이를 통해 사용자가 자신의 감정을 더 직관적으로 표현하고, 글의 분위기를 풍부하게 만들 수 있도록 돕습니다.
 
@@ -41,7 +42,6 @@
 ![스크린샷 2024-11-26 183124](https://github.com/user-attachments/assets/64a520e8-2339-4d67-bfce-e6943896a9c9)
 
 
-
 ## 4️⃣ 시연 화면
 > 이모지 삽입
 <img width="500" alt="스크린샷 2024-11-26 오후 6 16 42" src="https://github.com/user-attachments/assets/f12bcda7-4a33-4e84-831b-ebe559f910f1">
@@ -50,8 +50,6 @@
 <img width="500" alt="스크린샷 2024-11-26 오후 6 15 52" src="https://github.com/user-attachments/assets/d85e1e95-31d1-444b-ae14-b48f659a05fc">
 
 ## 5️⃣ 팀원
-
-
 
 |<img src="https://avatars.githubusercontent.com/u/175944453?v=4" width="100"/>|<img src="https://avatars.githubusercontent.com/u/144123922?v=4" width="100"/>|<img src="https://avatars.githubusercontent.com/u/174295762?v=4" width="100"/>|<img src="https://avatars.githubusercontent.com/u/111039206?v=4" width="100"/>|
 |:---:|:---:|:---:|:---:|
